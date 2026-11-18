@@ -1,7 +1,7 @@
 const CONFIG = {
   name: "Bhavuuu",
   hero: { image: "assets/images/hero/Snapchat-502711029.jpg", mode: "background", overlay: 0.55, position: "center 30%" },
-  birthdayISO: "2026-11-18T00:00:00+05:30",
+  birthdayISO: "2026-11-19T00:00:00+05:30",
   title: "The Girl Who Owns My Heart",
   subtitle: "A little universe, made with love, just for you.",
   themeSong: "assets/music/theme-Song.mp3",
